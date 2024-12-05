@@ -70,4 +70,5 @@ RegisterNumber:24010735
 **Output/TIMING Waveform**
 ![Screenshot 2024-12-05 212855](https://github.com/user-attachments/assets/b11367d1-6e56-4e89-94ea-7492c1e623e6)
 
-**Result:**
+**Result**
+designed a half adder and half subractor circuit and verified its truth table in Quartus using verilog programming.
